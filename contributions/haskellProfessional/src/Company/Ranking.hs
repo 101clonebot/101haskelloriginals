@@ -24,7 +24,5 @@ rankingFailSample = Company
   [ Department "Failure"
       (Employee "Ubermanager" "Top Floor" 100 Nothing)
       []
-      [Employee "Joe Programmer" "Basement, Room 1" 1000 Nothing, 
-      Employee "Mike Hacker" "Basement, Room 2" 2000 Nothing,
-      Employee "Julia Stevens" "Basement, Room 3" 2000 Nothing]
+      [Employee "Joe Programmer" "Basement" 1000 Nothing]
   ]
